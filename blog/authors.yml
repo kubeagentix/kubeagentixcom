@@ -1,0 +1,18 @@
+kubeagentics:
+  name: KubeAgentics Team
+  title: AI-Powered Kubernetes Operations
+  url: https://kubeagentics.dev
+  image_url: /img/logo.svg
+  page: true
+  socials:
+    github: kubeagentics
+
+gourav-shah:
+  name: Gourav Shah
+  title: Founder, KubeAgentics
+  url: https://kubeagentics.dev
+  image_url: /img/authors/gourav-shah.png
+  page: true
+  socials:
+    github: initcron
+    x: intrcron

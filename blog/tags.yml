@@ -1,0 +1,39 @@
+ai:
+  label: AI
+  description: Artificial Intelligence and LLM topics
+  permalink: /ai
+
+kubernetes:
+  label: Kubernetes
+  description: Kubernetes and container orchestration
+  permalink: /kubernetes
+
+optimization:
+  label: Optimization
+  description: Performance and cost optimization
+  permalink: /optimization
+
+architecture:
+  label: Architecture
+  description: System design and architecture patterns
+  permalink: /architecture
+
+devops:
+  label: DevOps
+  description: DevOps practices and tooling
+  permalink: /devops
+
+tokens:
+  label: Tokens
+  description: Token usage and LLM efficiency
+  permalink: /tokens
+
+monitoring:
+  label: Monitoring
+  description: Observability and monitoring tools
+  permalink: /monitoring
+
+productivity:
+  label: Productivity
+  description: Developer productivity and workflow optimization
+  permalink: /productivity

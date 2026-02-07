@@ -1,0 +1,10 @@
+{
+  "label": "Plans & Billing",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "plans/overview"
+  },
+  "collapsible": true,
+  "collapsed": false
+}

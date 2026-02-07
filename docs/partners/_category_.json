@@ -1,0 +1,10 @@
+{
+  "label": "MSP/SI Partners",
+  "position": 6,
+  "link": {
+    "type": "doc",
+    "id": "partners/overview"
+  },
+  "collapsible": true,
+  "collapsed": false
+}
