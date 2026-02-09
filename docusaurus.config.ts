@@ -11,11 +11,11 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://kubeagentics.dev',
-  baseUrl: '/',
+  url: 'https://kubeagentix.github.io',
+  baseUrl: '/kubeagentixcom/',
 
-  organizationName: 'kubeagentics',
-  projectName: 'kubeagentics-ce',
+  organizationName: 'kubeagentix',
+  projectName: 'kubeagentixcom',
 
   onBrokenLinks: 'throw',
 
